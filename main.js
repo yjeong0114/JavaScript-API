@@ -40,4 +40,4 @@ function convert(){
     document.getElementById("to-input").value = convertedAmount;
 }
 
-convert()
+// convert()
