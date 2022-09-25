@@ -1,19 +1,27 @@
 
 .convert {
-    position: absolute;
+    /* position: absolute;
     top: 40%;
     left: 53%;
     /* margin-right: -50%; */
-    transform: translate(-50%, -50%)
+    /* transform: translate(-50%, -50%)  */
+    
+
+    text-align: center;
+    vertical-align: center;
+    /* line-height: 100vh */
 }
 .input-area {
-    width: 400px;
+    /* width: 400px; */
+    text-align: center;
   }
 
   input{
-    width: 50%;
-  }
-  .equal {
-    width: 50%;
+    /* width: 50%; */
     text-align: center;
   }
+  .equal {
+    /* width: 50%; */
+    text-align: center;
+  }
+
